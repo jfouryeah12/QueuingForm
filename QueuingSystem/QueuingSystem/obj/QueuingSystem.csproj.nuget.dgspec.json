@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeric\\Documents\\VSProject\\Local Project\\QueuingSystem\\QueuingSystem\\QueuingSystem.csproj": {}
+    "C:\\Users\\jeric\\Documents\\VSProject\\Github\\QueuingForm\\QueuingSystem\\QueuingSystem\\QueuingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeric\\Documents\\VSProject\\Local Project\\QueuingSystem\\QueuingSystem\\QueuingSystem.csproj": {
+    "C:\\Users\\jeric\\Documents\\VSProject\\Github\\QueuingForm\\QueuingSystem\\QueuingSystem\\QueuingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeric\\Documents\\VSProject\\Local Project\\QueuingSystem\\QueuingSystem\\QueuingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\jeric\\Documents\\VSProject\\Github\\QueuingForm\\QueuingSystem\\QueuingSystem\\QueuingSystem.csproj",
         "projectName": "QueuingSystem",
-        "projectPath": "C:\\Users\\jeric\\Documents\\VSProject\\Local Project\\QueuingSystem\\QueuingSystem\\QueuingSystem.csproj",
+        "projectPath": "C:\\Users\\jeric\\Documents\\VSProject\\Github\\QueuingForm\\QueuingSystem\\QueuingSystem\\QueuingSystem.csproj",
         "packagesPath": "C:\\Users\\jeric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeric\\Documents\\VSProject\\Local Project\\QueuingSystem\\QueuingSystem\\obj\\",
+        "outputPath": "C:\\Users\\jeric\\Documents\\VSProject\\Github\\QueuingForm\\QueuingSystem\\QueuingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeric\\AppData\\Roaming\\NuGet\\NuGet.Config",
