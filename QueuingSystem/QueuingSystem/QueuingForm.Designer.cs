@@ -43,6 +43,7 @@
             this.btnCashier.TabIndex = 0;
             this.btnCashier.Text = "Cashier";
             this.btnCashier.UseVisualStyleBackColor = true;
+            this.btnCashier.Click += new System.EventHandler(this.btnCashier_Click);
             // 
             // label1
             // 
@@ -85,6 +86,7 @@
             this.Controls.Add(this.btnCashier);
             this.Name = "Form";
             this.Text = "QueuingForm";
+            this.Load += new System.EventHandler(this.Form_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
