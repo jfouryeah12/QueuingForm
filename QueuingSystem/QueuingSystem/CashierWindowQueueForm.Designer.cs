@@ -35,8 +35,13 @@
             // 
             // listCashierQueue
             // 
+            this.listCashierQueue.Font = new System.Drawing.Font("Alef", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.listCashierQueue.FullRowSelect = true;
+            this.listCashierQueue.GridLines = true;
+            this.listCashierQueue.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.listCashierQueue.Location = new System.Drawing.Point(154, 12);
             this.listCashierQueue.Name = "listCashierQueue";
+            this.listCashierQueue.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.listCashierQueue.Size = new System.Drawing.Size(254, 412);
             this.listCashierQueue.TabIndex = 0;
             this.listCashierQueue.UseCompatibleStateImageBehavior = false;

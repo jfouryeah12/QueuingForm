@@ -8,8 +8,19 @@ namespace QueuingSystem
         [STAThread]
         static void Main()
         {
-            ApplicationConfiguration.Initialize();
-            Application.Run(new Form());
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+
+            var thread = new Thread(ThreadStart);
+            thread.TrySetApartmentState(ApartmentState.STA);
+            thread.Start();
+
+            Application.Run(new Form());//FORM 1
+           
+        }
+        private static void ThreadStart() 
+        {
+            Application.Run(new CashierWindowQueue());//FORM 2
         }
     }
 }

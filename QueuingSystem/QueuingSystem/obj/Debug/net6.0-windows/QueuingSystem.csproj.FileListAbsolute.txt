@@ -16,3 +16,21 @@ C:\Users\jeric\Documents\VSProject\Local Project\QueuingSystem\QueuingSystem\obj
 C:\Users\jeric\Documents\VSProject\Local Project\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\ref\QueuingSystem.dll
 C:\Users\jeric\Documents\VSProject\Local Project\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\QueuingSystem.pdb
 C:\Users\jeric\Documents\VSProject\Local Project\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\QueuingSystem.genruntimeconfig.cache
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\bin\Debug\net6.0-windows\QueuingSystem.exe
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\bin\Debug\net6.0-windows\QueuingSystem.deps.json
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\bin\Debug\net6.0-windows\QueuingSystem.runtimeconfig.json
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\bin\Debug\net6.0-windows\QueuingSystem.dll
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\bin\Debug\net6.0-windows\ref\QueuingSystem.dll
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\bin\Debug\net6.0-windows\QueuingSystem.pdb
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\QueuingSystem.csproj.AssemblyReference.cache
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\QueuingSystem.CashierWindowQueue.resources
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\QueuingSystem.Form.resources
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\QueuingSystem.csproj.GenerateResource.cache
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\QueuingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\QueuingSystem.AssemblyInfoInputs.cache
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\QueuingSystem.AssemblyInfo.cs
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\QueuingSystem.csproj.CoreCompileInputs.cache
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\QueuingSystem.dll
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\ref\QueuingSystem.dll
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\QueuingSystem.pdb
+C:\Users\jeric\Documents\VSProject\Github\QueuingForm\QueuingSystem\QueuingSystem\obj\Debug\net6.0-windows\QueuingSystem.genruntimeconfig.cache
