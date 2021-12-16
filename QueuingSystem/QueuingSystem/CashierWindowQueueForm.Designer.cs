@@ -45,6 +45,7 @@
             this.listCashierQueue.Size = new System.Drawing.Size(254, 412);
             this.listCashierQueue.TabIndex = 0;
             this.listCashierQueue.UseCompatibleStateImageBehavior = false;
+            this.listCashierQueue.View = System.Windows.Forms.View.List;
             // 
             // btnRefresh
             // 

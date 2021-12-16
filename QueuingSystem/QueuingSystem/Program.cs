@@ -15,12 +15,12 @@ namespace QueuingSystem
             thread.TrySetApartmentState(ApartmentState.STA);
             thread.Start();
 
-            Application.Run(new Form());//FORM 1
+            Application.Run(new Form());
            
         }
         private static void ThreadStart() 
         {
-            Application.Run(new CashierWindowQueue());//FORM 2
+            Application.Run(new CashierWindowQueue());
         }
     }
 }
