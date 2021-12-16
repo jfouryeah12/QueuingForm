@@ -8,6 +8,7 @@ namespace QueuingSystem
 {
     internal class CashierClass
     {
+        
         private int x;
         public static string getNumberInQueue = "";
         public static Queue<string> CashierQueue;
